@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    overflow: scroll;
+}
+
+.btn-login{
+   margin-right: 5px;
+   margin-bottom: 5px;
+   display: flex;
+   border-width: 10px;   
+}
+
+.btn-register{
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border-width: 10px;   
+ }
+
+ Form.Control {
+    border: 50px;
+    border-color: red;
+ }
